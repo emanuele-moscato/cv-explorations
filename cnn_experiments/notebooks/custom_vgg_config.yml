@@ -1,0 +1,5 @@
+'n_filters_conv_blocks': [
+  [16],
+  [16],
+  [32],
+]

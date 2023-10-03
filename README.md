@@ -1,2 +1,3 @@
-# cv-explorations
-A repo to explore machine learning applications to computer vision
+# CV explorations
+
+A repo to explore machine learning applications to computer vision.
